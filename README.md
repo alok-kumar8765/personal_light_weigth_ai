@@ -76,7 +76,7 @@ Users can enter an API key, type a message, and receive a response from the AI a
 
 ## 🏷️ Badges
 
-!\[Python\](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white) !\[Streamlit\](https://img.shields.io/badge/Framework-Streamlit-FF4B4B?logo=streamlit&logoColor=white) !\[OpenAI\](https://img.shields.io/badge/AI-OpenAI\_API-412991?logo=openai&logoColor=white) !\[License\](https://img.shields.io/badge/License-MIT-green.svg) !\[Status\](https://img.shields.io/badge/Status-Development-orange)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Framework-Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![OpenAI](https://img.shields.io/badge/AI-OpenAI_API-412991?logo=openai&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-green.svg) ![Status](https://img.shields.io/badge/Status-Development-orange)
 
 ---
 
